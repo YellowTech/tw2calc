@@ -1,0 +1,11 @@
+.noBorder div {
+  border: 0;
+}
+
+.colorful {
+  background: linear-gradient(135deg, #9da7b8 0%, #e8e9e9 100%);
+}
+
+.colorful2 {
+  background: linear-gradient(135deg, #e0c0a1 0%, #f3b268 100%);
+}
